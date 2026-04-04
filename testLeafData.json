@@ -1,0 +1,19 @@
+[
+{
+    "TCaseID":"TestCase1",
+    "username":"demosalesmanager",
+    "password":"crmsfa",
+    "companyname" :"zing",
+    "firstname" : "shan",
+    "lastname" : "s"
+
+},
+{
+    "TCaseID":"TestCase2",
+    "username":"democsr",
+    "password":"crmsfa",
+    "companyname" :"zing",
+    "firstname" : "shan1",
+    "lastname" : "s1"
+}
+]
